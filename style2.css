@@ -6,7 +6,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-
+  width: 100% !important;
 }
 
 
@@ -260,6 +260,16 @@ button:hover {
   .btn {
     padding: .125rem .3125rem;
     font-size: .875rem;
+  }
+
+    body {
+    width: 100%;
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
+
+  html, body {
+  overflow-x: hidden;
   }
    
 
