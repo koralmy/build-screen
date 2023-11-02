@@ -3,7 +3,7 @@
 Title: build screen Page.
 
 Description:
-This is a Hebrew-language landing page designed to self elemnts build. 
+This is a Hebrew-language page designed to self elemnts build. 
 The page is RTL (right-to-left) for better user experience.
 
 Features:
